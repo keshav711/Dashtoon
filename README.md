@@ -1,3 +1,3 @@
 # Dashtoon
 
-references - chatgpt, https://github.com/RElbers/ada-conv-pytorch
+references - chatgpt, https://github.com/RElbers/ada-conv-pytorch, analyticsvidya
